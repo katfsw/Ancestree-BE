@@ -8,3 +8,5 @@ Passwords Hash using Bcrypt & JSONWebToken
 ```|POST: LOGIN (to Login a "username" and "password" for an account) | /api/auth/login```
 
 ```|GET: USERS (to see a list of registered Users and ID's) | /api/users/```
+
+testing a commit
